@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development and crochet
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: Linkedin (link in bio)
+- 📫 How to reach me: Linkedin (Tiphaine Renouf)
 <!--
 **tiphainer17/tiphainer17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
